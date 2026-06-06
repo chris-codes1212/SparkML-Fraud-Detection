@@ -1,0 +1,5 @@
+fraud_pipeline_model*
+data/
+.DS_Store
+chris_thompson_assignment2.ipynb
+stream_input/
